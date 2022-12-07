@@ -8,6 +8,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background-image: linear-gradient(to top,#444,#eee);
 }
 .galeria{
 	width: 450px;
